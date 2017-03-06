@@ -16,13 +16,12 @@ The purpose of this project was to use machine learning libraries in python for 
 2) The best DT model had a test-set accuracy of around 93%, but the average was around 75%. The best RT model had a test-set accuracy of around 92%, and the averages were in the high 80%s. Slugging was found to be the most important feature.
   a) Interesting insight: Because of perhaps the fan vote, the really all encompassing Sabermetric stats such as WAR aren't as important to predict All-star. I think it should because it is a better indicator of player value. Maybe if we made sabermetrics easier for the casual fan to understand we would see more of a link between war and all-star status.
   
-  
+
 ###Selected screenshots from attached files
 
-*cross validation example to find the optimal size of the DT
- [cross validation](Users/nicklillie/Desktop/hw5/cross.png)
-*running the prediction with the optimal size
+* cross validation example to find the optimal size of the DT 
+[cross validation](Users/nicklillie/Desktop/hw5/cross.png)
+* running the prediction with the optimal size
 [prediction](Users/nicklillie/Desktop/hw5/prediction.png)
-*example of feature-engineering
+* feature engineering
 [feature engineering](Users/nicklillie/Desktop/hw5/feature_engineering.png)
-
