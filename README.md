@@ -20,9 +20,9 @@ The purpose of this project was to use machine learning libraries in python for 
 ###Selected screenshots from attached files
 
 *cross validation example to find the optimal size of the DT
-  (Users/nicklillie/Desktop/hw5/cross.png")
+ [cross validation](Users/nicklillie/Desktop/hw5/cross.png)
 *running the prediction with the optimal size
-(Users/nicklillie/Desktop/hw5/prediction.png")
+[prediction](Users/nicklillie/Desktop/hw5/prediction.png)
 *example of feature-engineering
-(Users/nicklillie/Desktop/hw5/feature_engineering.png)
+[feature engineering](Users/nicklillie/Desktop/hw5/feature_engineering.png)
 
