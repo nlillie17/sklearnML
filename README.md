@@ -22,6 +22,6 @@ The purpose of this project was to use machine learning libraries in python for 
 * cross validation example to find the optimal size of the DT 
 [cross validation](https://github.com/nlillie17/sklearnML/blob/master/cross.png)
 * running the prediction with the optimal size
-[prediction](Users/nicklillie/Desktop/hw5/prediction.png)
+[prediction](https://github.com/nlillie17/sklearnML/blob/master/prediction.png)
 * feature engineering
-[feature engineering](Users/nicklillie/Desktop/hw5/feature_engineering.png)
+[feature engineering](https://github.com/nlillie17/sklearnML/blob/master/feature_engineering.png)
